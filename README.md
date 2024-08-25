@@ -1,2 +1,2 @@
-# LangChain_TKLLM
-TKkusa's side project about LangChain and LLM 
+# Streamlit_TK
+TKkusa's side project about Streamlit personal tools
