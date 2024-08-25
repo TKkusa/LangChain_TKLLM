@@ -1,0 +1,8 @@
+系統指令
+檢索(retrieval)
+
+☆ 根據提供document和保存對話紀錄的聊天機器人(like ChatGPT)
+☆ documents loader/text splitter 處理多種類型資料
+☆ Streamlit個人工具
+
+使用llama2模型的對話機器人效果不行，考慮openai
